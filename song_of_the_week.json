@@ -1,6 +1,6 @@
 {
-   'title': 'ತುಳಸಿ', 
-    'artist': 'ಸುಮೇಧ್',
-    'youtubeUrl': 'https://www.youtube.com/watch?v=1GtMXPFBlyk',
-    'thumbnailUrl': 'https://i.imgur.com/example_fallback_image.png'
+    "title": "ತುಳಸಿ",
+    "artist": "ಸುಮೇಧ್",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NEW_VIDEO_ID",
+    "thumbnailUrl": "https://img.youtube.com/vi/NEW_VIDEO_ID/hqdefault.jpg"
 }
